@@ -5,8 +5,8 @@ export default function HomePage() {
         <div>
             <h1>Alura Cases - Home Page</h1>
             <Link href='/faq'>
-                <a>Ir para FAQ</a>
+                Ir para FAQ
             </Link>
         </div>
-    )
+    );
 }
