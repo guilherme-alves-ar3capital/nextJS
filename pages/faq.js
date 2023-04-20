@@ -5,7 +5,7 @@ export default function FAQpage() {
         <div>
             <h1>Alura Cases - Páginas de Perguntas FAQ</h1>
             <Link href='/'>
-                Ir para Home
+                <a>Ir para Home</a>
             </Link>
         </div>
     );
